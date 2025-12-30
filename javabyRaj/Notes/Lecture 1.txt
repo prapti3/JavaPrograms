@@ -1,0 +1,101 @@
+Full Stack Java
+
+---------------------------
+
+- Core Java / Java SE
+    - Java SE stands for Java standard Edition
+    - used to develop standalone/desktop application
+         - java intro
+         - Download and install java 18
+         - Developing a java application at command prompt
+         - Download and install eclipse ide
+         - Developing java application in eclipse
+         - Java Basics 
+             - Keywords, variables, datatypes, operators, if, switch, while loop, do...while
+                 for loop etc
+         - Arrays
+         - Java OOP 
+             - Classes, objects, constructors, static keyword, packages, inheritance, 
+                    poly, final keyword, inner classes, access modifiers, encapsulation
+                    abstract classes, interfaces etc
+         - lang package
+             - object class, String class, StringBuffer class, StringBuilder class, math 
+               class, wrapper classes
+         - Exception Handling
+         - Multithreading
+         - Collections
+         - Lambda Expressions, functional interfaces, Stream API
+         - IO Package
+         - SQL concepts/ database concepts using MySQL Database
+         - JDBC
+
+                 
+
+- web Technologies
+         - HTML
+         - CSS
+         - JS
+         - Typescript
+         - XML
+         - JSON
+         - Angular
+
+
+- Advance Java / Java EE
+    - Java EE stands for Enterprise edition
+    - used to develop web application
+           - servlets 
+           - JSP (java server pages)
+
+
+- Frameworks
+   - Hibernate framework
+   - web services
+   - Spring framework
+      - spring core/ Bean module
+      - spring DAO Module
+         - spring JDBC Module
+         - spring ORM Module (hibernate)
+         - Spring Data module
+      - Spring MVC Module => used to develop web applications
+      - Spring boot Module
+      - Spring REST Module
+   - Microservices using spring boot
+
+
+
+- Real time tools 
+   - Maven
+   - GitHub
+   - Log4j
+   - Lombok
+   - Postman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
